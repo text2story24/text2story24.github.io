@@ -364,7 +364,7 @@ button:focus,
  *-------------------*/
 
 .jumbotron {
-  background: url("../img/bg/dalle.jpg");
+  background: url("../img/bg/dalle_darker.jpg");
   background-size: cover;
   padding: 0;
   margin: 0;
